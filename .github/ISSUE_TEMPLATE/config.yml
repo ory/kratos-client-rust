@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Ory Ory Kratos Rust Client Forum
-    url: https://github.com/ory/kratos-client-rust/discussions
+    url: https://github.com/orgs/ory/discussions
     about:
       Please ask and answer questions here, show your implementations and
       discuss ideas.
